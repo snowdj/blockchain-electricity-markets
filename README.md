@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/KAPSARC/blockchain-electricity-markets/master?filepath=index.ipynb)
+
 # blockchain-electricity-markets
 Collection of Jupyter notebooks demonstrating how blockchain technologies could
 be used to improve the design of electricity markets.
@@ -30,4 +32,4 @@ $ jupyter notebook
 If you don't want to bother downloading  and installing all of the required
 dependencies, then you can run then you can run the notebooks in the cloud
 using the [Binder](https://beta.mybinder.org/v2/gh/KAPSARC/blockchain-electricity-markets/master?filepath=index.ipynb)
-service.
+service (or click on the Binder badge at the top of this file!).
