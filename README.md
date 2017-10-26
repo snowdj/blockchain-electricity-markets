@@ -1,5 +1,6 @@
 # blockchain-electricity-markets
-Collection of Jupyter notebooks demonstrating how blockchain technologies could be used to improve the design of electricity markets.
+Collection of Jupyter notebooks demonstrating how blockchain technologies could
+be used to improve the design of electricity markets.
 
 ## Running the notebooks locally
 To run the notebooks locally you will need a working installation of

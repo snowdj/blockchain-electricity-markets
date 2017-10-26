@@ -4,4 +4,4 @@ dependencies:
   - python >= 3.6
   - ipython == 6.1
   - matplotlib == 2.0.2
-  - jupyter == 4.3.0
+  - jupyter
